@@ -66,6 +66,8 @@ minikube service wordpress-service --url
 
 Cette URL vous permettra d'accéder à votre site WordPress local.
 
+![alt text](image.png)
+
 ## Structure du projet
 
 Le projet est constitué des fichiers suivants :
